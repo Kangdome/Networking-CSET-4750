@@ -1,0 +1,27 @@
+3 different methods to get around a password on a device. 
+
+
+NOT IN CONFIG DO NOT KNOW PASSWORD!
+
+Reset the device, upload new settings with known or no credentials, X? 
+
+Change register settings. Tells device if startup config ignore it next boot. 
+"Would you like to enter initial configuration mode" 
+-> SELECT YES! let it build and then look at config. 
+
+Save setup config. Look at config and answer: 
+
+What is global config mode
+
+ipsubnet zero
+
+iprouting or no routing
+
+shutdown and noshutdown
+
+When we build config we get statements inside of config .
+
+this is intial setup menu. Let it build and then wipe next class. 
+
+
+
